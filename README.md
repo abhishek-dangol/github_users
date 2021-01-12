@@ -1,3 +1,6 @@
+### Link to the webpage:
+https://dan-github-users.netlify.app/
+
 ## Starter Project
 
 - css provided (global styles, styled components)
